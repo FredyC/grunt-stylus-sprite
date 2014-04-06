@@ -21,7 +21,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "node-sprite": "0.1.2",
+    "node-sprite": "http://github.com/FredyC/node-sprite/tarball/imagemagick-optional",
     "stylus": "0.37.0"
   },
   "devDependencies": {
