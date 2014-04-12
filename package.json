@@ -21,7 +21,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "node-sprite": "http://github.com/FredyC/node-sprite/tarball/master,
+    "node-sprite": "http://github.com/FredyC/node-sprite/tarball/master",
     "stylus": "0.37.0"
   },
   "devDependencies": {
